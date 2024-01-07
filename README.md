@@ -1,2 +1,2 @@
-# automotive-collision-detection---emergency-response-system
+# automotive-collision-detection-and-emergency-response-system
 Senior year project
